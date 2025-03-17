@@ -107,7 +107,6 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
 
 <p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
