@@ -97,5 +97,4 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
 ### 📊 Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padovandev&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padovandev&layout=compact&theme=dark)
