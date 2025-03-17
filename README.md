@@ -100,15 +100,16 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=padovandev&show_icons=true&theme=dark" 
 />
 
 <p>
   <img 
+    align="left"
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=padovandev&layout=compact&theme=dark" 
 />
