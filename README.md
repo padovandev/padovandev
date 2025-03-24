@@ -1,6 +1,7 @@
-# 💻 Fabricio Padovan
+![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=header)
+![Welcome](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&animation=fadeIn&gradientColors=B993D6,8CA6DB)
 
-**Desenvolvedor Backend**
+### Sobre mim
 
 Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu nome é Fabricio Padovan, tenho 18 anos e me introduzi na programação aos 15. Finalizei meu ensino médio com um curso de T.I e atualmente estou cursando Faculdade de ADS. Minha area de atuação principal é o Back-end, mas sou apto para outros serviços. Tenho um canal no YouTube onde compartilho conhecimento, juntamente com meu projeto pessoal, a "[World Code Sistemas](https://www.youtube.com/@worldcode.sistemas)", Minha empresa focada em soluções tecnológicas. 
 
@@ -102,7 +103,7 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=padovandev&show_icons=true&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api?username=padovandev&show_icons=true&theme=ambient_gradient&hide_border=true" 
 />
 
 <p>
@@ -111,6 +112,7 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=padovandev&layout=compact&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=padovandev&layout=compact&theme=ambient_gradient&hide_border=true" 
 />
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
