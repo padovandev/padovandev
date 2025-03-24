@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=header)
 
-### Sobre mim
+### 🔎 Sobre mim
 
 Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu nome é Fabricio Padovan, tenho 18 anos e me introduzi na programação aos 15. Finalizei meu ensino médio com um curso de T.I e atualmente estou cursando Faculdade de ADS. Minha area de atuação principal é o Back-end, mas sou apto para outros serviços. Tenho um canal no YouTube onde compartilho conhecimento, juntamente com meu projeto pessoal, a "[World Code Sistemas](https://www.youtube.com/@worldcode.sistemas)", Minha empresa focada em soluções tecnológicas. 
 
