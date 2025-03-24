@@ -94,13 +94,21 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
 <br/>
 <br/>
 
+## <h3 align="left"> Bootcamps e Certificados </h3>
+
+<div align="left">
+ 📊 <b>Universidade Paulista</b> - Superior Tecnico em Analise e Desenvolvimento de Sistemas<br>
+ 📈 <b>Backend com Python</b> - Curso em Desenvolvimento com Python (172 Horas) pela <a href="https://www.udemy.com">Udemy</a> <br>
+ 📈 <b>Backend com Java </b> - Curso em Desenvolvimento com Java (112 Horas) pela <a href="https://www.udemy.com">Udemy</a> <br>
+ ☕ <b>Bootcamp Java Developer</b> - Formação em desenvolvimento backend com Java pela <a href="https://www.dio.me">DIO</a><br>
+
 ### 📊 Estatísticas
 
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="140" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=padovandev&show_icons=true&theme=ambient_gradient&hide_border=true" 
 />
@@ -109,7 +117,7 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
   <img 
     align="left"
     alt="GitHub Stats" 
-    height="150" 
+    height="140" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=padovandev&layout=compact&theme=ambient_gradient&hide_border=true" 
 />
