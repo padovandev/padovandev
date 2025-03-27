@@ -1,5 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=header)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=180&section=header&animation=twinkling&fontAlignY=35"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Fabricio+Padovan:%29;Hello,+Be-Welcome!+:%29;)](https://git.io/typing-svg)
+
+  ##
 ### 🔎 Sobre mim
 
 Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu nome é Fabricio Padovan, tenho 18 anos e me introduzi na programação aos 15. Finalizei meu ensino médio com um curso de T.I e atualmente estou cursando Faculdade de ADS. Minha area de atuação principal é o Back-end, mas sou apto para outros serviços. Tenho um canal no YouTube onde compartilho conhecimento, juntamente com meu projeto pessoal, a "[World Code Sistemas](https://www.youtube.com/@worldcode.sistemas)", Minha empresa focada em soluções tecnológicas. 
@@ -108,21 +111,10 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="140" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=padovandev&show_icons=true&theme=ambient_gradient&hide_border=true" 
-/>
+ <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=padovandev&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" alt="Status do GitHub" /> 
 
 <p>
-  <img 
-    align="left"
-    alt="GitHub Stats" 
-    height="140" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=padovandev&layout=compact&theme=ambient_gradient&hide_border=true" 
-/>
+ <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padovandev&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
+<p/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=150&section=footer"/>
