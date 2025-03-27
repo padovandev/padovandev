@@ -111,8 +111,8 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
 ## 📊 Estatísticas
 <br>
 <div align="center"> 
-  <img width="49%" height="140px" src="https://github-readme-stats.vercel.app/api?username=padovandev&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
-  <img width="49%" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padovandev&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=padovandev&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
+  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padovandev&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 
