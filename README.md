@@ -6,6 +6,7 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@worldcode.sistemas)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/padovan011/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511930436286) 
 
 ### 🤖 Linguagens e Tecnologias
 
