@@ -108,13 +108,12 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
  📈 <b>Backend com Java </b> - Curso em Desenvolvimento com Java (112 Horas) pela <a href="https://www.udemy.com">Udemy</a> <br>
  ☕ <b>Bootcamp Java Developer</b> - Formação em desenvolvimento backend com Java pela <a href="https://www.dio.me">DIO</a><br>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
+<br>
+<div align="center"> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=padovandev&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padovandev&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
+</div>
 
-<p>
- <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=padovandev&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" alt="Status do GitHub" /> 
-
-<p>
- <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padovandev&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
-<p/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=150&section=footer"/>
