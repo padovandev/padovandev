@@ -100,7 +100,7 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
 <br/>
 <br/>
 
-## <h3 align="left"> Bootcamps e Certificados </h3>
+## <h3 align="left">🏆 Bootcamps e Certificados </h3>
 
 <div align="left">
  📊 <b>Universidade Paulista</b> - Superior Tecnico em Analise e Desenvolvimento de Sistemas<br>
