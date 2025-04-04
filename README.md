@@ -95,7 +95,12 @@ Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu n
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<br> 
+<p>
+  Back-End: Java, Python,C#, SQL Server, .NET, APIs RESTful, PHP <br>
+  Front-End: Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, React<br>
+  Ferramentas: Git, GitHub, Visual Studio, VS Code, Azure
+</p>
 
 <br/>
 <br/>
