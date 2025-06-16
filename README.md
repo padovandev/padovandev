@@ -115,7 +115,7 @@ Certificação em IA, Engenharia de IA, Desenvolvimento de APIs e Interfaces Gr�
  📊 <b>Universidade Paulista</b> - Superior Tecnólogo em Analise e Desenvolvimento de Sistemas<br>
  📈 <b>Backend com Python</b> - Curso Backend com Python (172 Horas) pela <a href="https://www.udemy.com">Udemy</a> <br>
  📈 <b>Backend com Java </b> - Curso Backend com Java (112 Horas) pela <a href="https://www.udemy.com">Udemy</a> <br>
- ☕ <b>Bootcamp Java Developer</b> - Formação em desenvolvimento backend com Java pela <a href="https://www.dio.me">DIO</a><br>
+ ☕ <b>Bootcamp TONNIE - Java and AI in Europe</b> - Formação em desenvolvimento backend com Java pela <a href="https://www.dio.me">DIO</a><br>
 
 ## 📊 Estatísticas
 <br>
