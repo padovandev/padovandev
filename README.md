@@ -5,13 +5,12 @@
   ##
 ### 🔎 Sobre mim
 
-Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu nome é Fabricio Padovan, tenho 18 anos e me introduzi na programação aos 15. Finalizei meu ensino médio com um curso de T.I e atualmente estou cursando Faculdade de ADS. Minha area de atuação principal é o Back-end, mas sou apto para outros serviços. Tenho um canal no YouTube onde compartilho conhecimento, juntamente com meu projeto pessoal, a "[World Code Sistemas](https://www.youtube.com/@worldcode.sistemas)", Minha empresa focada em soluções tecnológicas. 
+Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu nome é Fabricio Padovan, tenho 18 anos e me introduzi na programação aos 15. Finalizei meu ensino médio com um curso de T.I e atualmente estou cursando Faculdade de ADS. Minha area de atuação principal é o Back-end, mas sou apto para outros serviços.
 
-Aos 17, iniciei uma startup com projetos inovadores e revolucionarios para ramos empresariais e comerciais, juntamente com SaaS para alcançar diversas areas da tecnologia. Me aprofundei em varios tipos de conhecimento, como .NET, C, C#, Node.js, MySQL, NoSQL, SQLite3, DBeaver, entre outros tipos de tecnologias. Minha linguagem nativa é Java e Python, mas sempre estou buscando aprender mais e buscar cada vez mais uma nova revolução com tecnologia de ponta. 
+Aos 17, iniciei uma startup com projetos inovadores e revolucionarios para ramos empresariais e comerciais, contanto com SaaS, Aplicaçao Web e Desktop para alcançar diversas areas da tecnologia. Me aprofundei em varios tipos de conhecimento, como Node.js, PHP, Java, Python, MySQL, Sqlite, entre outros tipos de tecnologias. Minhas linguagens nativa são Java, PHP e Python, mas sempre estou buscando aprender mais e buscar cada vez mais uma nova revolução com tecnologia de ponta. 
 
-Certificação em IA, Engenharia de IA, Desenvolvimento de APIs e Interfaces Gráficas, entre outros cursos de linguagens isoladas. Realizei Freelancers pessoais desde os 14 anos, considerando o primeiro serviço oficial com 15. Estudo desde os 12, e estou apto para encarar qualquer desafio e abraçar ideias que tiver valor para o futuro! 
+Certificação em IA, Engenharia de IA, Desenvolvimento de APIs e Interfaces Gráficas, entre outros cursos de linguagens isoladas. Realizei Freelancers pessoais desde os 14 anos, considerando o primeiro trabalho freelancer oficial com 15. Estudo desde os 12, e estou apto para encarar qualquer desafio e abraçar ideias que tiver valor para o futuro! 
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@worldcode.sistemas)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/padovan011/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511930436286) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padovandev/)
