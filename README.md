@@ -5,11 +5,11 @@
   ##
 ### 🔎 Sobre mim
 
-Olá. Se está aqui é porque algo lhe interessou... Saiba mais sobre mim: Meu nome é Fabricio Padovan, tenho 18 anos e me introduzi na programação aos 15. Finalizei meu ensino médio com um curso de T.I e atualmente estou cursando Faculdade de ADS. Minha area de atuação principal é o Back-end, mas sou apto para outros serviços.
-
-Aos 17, iniciei uma startup com projetos inovadores e revolucionarios para ramos empresariais e comerciais, contanto com SaaS, Aplicaçao Web e Desktop para alcançar diversas areas da tecnologia. Me aprofundei em diversos tipos de conhecimento, como Node.js, PHP, Java, Python, MySQL, Sqlite, entre outros tipos de tecnologias. Minhas linguagens nativas são Java, PHP e Python, mas sempre estou buscando aprender mais e buscar cada vez mais uma nova revolução com tecnologia de ponta. 
-
-Certificação em IA, Engenharia de IA, Desenvolvimento de APIs e Interfaces Gráficas, entre outros cursos de linguagens isoladas. Realizei Freelancers pessoais desde os 14 anos, considerando o primeiro trabalho freelancer oficial com 15. Estudo desde os 12, e estou apto para encarar qualquer desafio e abraçar ideias que tiver valor para o futuro! 
+👋 Olá, sou Fabricio Padovan, desenvolvedor com 18 anos e apaixonado por tecnologia desde os 12. Iniciei minha trajetória em programação aos 15 e hoje curso Análise e Desenvolvimento de Sistemas (ADS).
+💻 Atuo principalmente em Back-end, com sólida experiência em Java, PHP e Python, além de conhecimento em Node.js, MySQL, SQLite e desenvolvimento de aplicações Web/Desktop.
+🚀 Aos 17, fundei uma startup focada em soluções tecnológicas para empresas e comércios, explorando projetos inovadores em diferentes áreas da tecnologia.
+🎓 Possuo certificações em Inteligência Artificial, Engenharia de IA, Desenvolvimento de APIs e Interfaces Gráficas, Desenvolvento Web, Desenvolvimento Back-end, Java, Python, PHP, Desenvolvimento Full Stack, entre outros mini cursos realizados para aprimoramento de skills.
+📈 Desde os 14 anos realizo projetos freelancers, consolidando experiência prática em criar soluções que geram impacto real.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/padovan011/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511930436286) 
