@@ -5,11 +5,11 @@
   ##
 ### 🔎 Sobre mim
 
-👋 Olá, sou Fabricio Padovan, desenvolvedor com 18 anos e apaixonado por tecnologia desde os 12. Iniciei minha trajetória em programação aos 15 e hoje curso Análise e Desenvolvimento de Sistemas (ADS).
-💻 Atuo principalmente em Back-end, com sólida experiência em Java, PHP e Python, além de conhecimento em Node.js, MySQL, SQLite e desenvolvimento de aplicações Web/Desktop.
-🚀 Aos 17, fundei uma startup focada em soluções tecnológicas para empresas e comércios, explorando projetos inovadores em diferentes áreas da tecnologia.
-🎓 Possuo certificações em Inteligência Artificial, Engenharia de IA, Desenvolvimento de APIs e Interfaces Gráficas, Desenvolvento Web, Desenvolvimento Back-end, Java, Python, PHP, Desenvolvimento Full Stack, entre outros mini cursos realizados para aprimoramento de skills.
-📈 Desde os 14 anos realizo projetos freelancers, consolidando experiência prática em criar soluções que geram impacto real.
+<p>👋 Olá, sou Fabricio Padovan, desenvolvedor com 18 anos e apaixonado por tecnologia desde os 12. Iniciei minha trajetória em programação aos 15 e hoje curso Análise e Desenvolvimento de Sistemas (ADS). </p>
+<p>💻 Atuo principalmente em Back-end, com sólida experiência em Java, PHP e Python, além de conhecimento em Node.js, MySQL, SQLite e desenvolvimento de aplicações Web/Desktop.</p>
+<p>🚀 Aos 17, fundei uma startup focada em soluções tecnológicas para empresas e comércios, explorando projetos inovadores em diferentes áreas da tecnologia.</p>
+<p>🎓 Possuo certificações em Inteligência Artificial, Engenharia de IA, Desenvolvimento de APIs e Interfaces Gráficas, Desenvolvento Web, Desenvolvimento Back-end, Java, Python, PHP, Desenvolvimento Full Stack, entre outros mini cursos realizados para aprimoramento de skills.</p>
+<p>📈 Desde os 14 anos realizo projetos freelancers, consolidando experiência prática em criar soluções que geram impacto real.</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/padovan011/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511930436286) 
