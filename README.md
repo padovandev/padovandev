@@ -114,7 +114,7 @@
  📈 <b>Backend com Python</b> - Curso Backend com Python (172 Horas) pela <a href="https://www.udemy.com">Udemy</a> <br>
  📈 <b>Backend com Java </b> - Curso Backend com Java (112 Horas) pela <a href="https://www.udemy.com">Udemy</a> <br>
  📈 <b>Desenvolvimento Web </b> - Curso de Desenvolvimento Web completo (94,5 Horas) pela <a href="https://www.udemy.com">Udemy</a> <br>
- 📈 <b>Hacking Ético Profissional </b> - Curso de Hacking Ético em Cibersegurança (33,5 Horas) pela <a href="https://www.udemy.com">Udemy</a> <br>
+ 📈 <b>Hacking Ético Profissional </b> - Curso de Hacking Ético com Kali Linux em Cibersegurança (34 Horas) pela <a href="https://www.udemy.com">Udemy</a> <br>
  ☕ <b>Bootcamp TONNIE - Java and AI in Europe</b> - Formação em desenvolvimento backend com Java pela <a href="https://www.dio.me">DIO</a><br>
 
 ## 📊 Estatísticas
