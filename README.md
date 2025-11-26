@@ -5,10 +5,8 @@
   ##
 ### 🔎 Sobre mim
 
-<p>👋 Olá, sou Fabricio Padovan, desenvolvedor com 18 anos e apaixonado por tecnologia desde os 12. Iniciei minha trajetória em programação aos 15 e hoje curso Análise e Desenvolvimento de Sistemas (ADS). </p>
-<p>💻 Atuo principalmente em Back-end, com sólida experiência em Java, PHP e Python, além de conhecimento em Node.js, .NET, Linux, S.O, desenvolvimento de aplicações Web/Desktop entre outras linguagens variadas.</p>
-<p>🎓 Possuo certificações em Inteligência Artificial, Engenharia de IA, Desenvolvimento de APIs e Interfaces Gráficas, Desenvolvento Web, Desenvolvimento Back-end, Java, Python, PHP, Desenvolvimento Full Stack, Hacking Ético (PenTest), Segurança da Informação, DevOps, entre outros cursos realizados para aprimoramento de Skill.</p>
-<p>📈 Desde os 15 anos realizo projetos freelancers, consolidando experiência prática em criar soluções que geram impacto real.</p>
+<p>👋 Olá, sou Fabricio Padovan, desenvolvedor com 18 anos e apaixonado por tecnologia desde os 12. Iniciei minha trajetória em programação aos 15! </p>
+<p>💻 Atuo principalmente em Back-end, com sólida experiência em Java, PHP e Python, além de conhecimento em Node.js, .NET, Linux, S.O, com foco total em desenvolvimento de aplicações Web/Desktop.</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/padovan011/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511930436286) 
