@@ -4,9 +4,11 @@
 
   ##
 ### 🔎 Sobre mim
+<p>Sou Desenvolvedor Full-Stack com experiência sólida na construção de aplicações modernas, escaláveis e seguras. Trabalho com Flutter, Laravel e Spring, atuando desde o desenho da arquitetura até a implementação completa de funcionalidades no front-end e no back-end. Tenho forte afinidade com boas práticas de engenharia de software, clean code, testes e processos de CI/CD. </p>
 
-<p>👋 Olá, sou Fabricio Padovan, desenvolvedor com 18 anos e apaixonado por tecnologia desde os 12. Iniciei minha trajetória em programação aos 15! </p>
-<p>💻 Atuo na área Full-Stack, com sólida experiência em Dart, PHP, Java e Python, além de conhecimento em Node.js, .NET, Linux, S.O, com foco total em desenvolvimento de aplicações Web & Mobile.</p>
+<p>Minha atuação também envolve princípios de Cybersecurity, implementando soluções que garantem proteção, integridade e confiabilidade das aplicações que desenvolvo. Utilizo Docker para padronizar ambientes, otimizar deploys e facilitar o fluxo de desenvolvimento em containers.</p>
+
+<p>Tenho inglês avançado e estou sempre buscando evoluir tecnicamente, acompanhando novas tecnologias, aprimorando minha comunicação e contribuindo para projetos que exigem alta performance, organização e pensamento crítico. Sou movido por desafios e pela oportunidade de criar soluções úteis, eficientes e bem estruturadas.</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/padovan011/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511930436286) 
@@ -97,8 +99,8 @@
 />
 <br> 
 <p>
-  Back-End: Java, Python,C#, SQL Server, .NET, APIs RESTful, PHP <br>
-  Front-End: Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, React<br>
+  Back-End: Java, Python, PHP, Dart, SQL Server, APIs RESTful <br>
+  Front-End: Flutter, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, React<br>
   Ferramentas: Git, GitHub, Visual Studio, VS Code, Azure
 </p>
 
