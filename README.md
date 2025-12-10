@@ -6,7 +6,7 @@
 ### 🔎 Sobre mim
 
 <p>👋 Olá, sou Fabricio Padovan, desenvolvedor com 18 anos e apaixonado por tecnologia desde os 12. Iniciei minha trajetória em programação aos 15! </p>
-<p>💻 Atuo principalmente em Back-end, com sólida experiência em Java, PHP e Python, além de conhecimento em Node.js, .NET, Linux, S.O, com foco total em desenvolvimento de aplicações Web/Desktop.</p>
+<p>💻 Atuo na área Full-Stack, com sólida experiência em Dart, PHP, Java e Python, além de conhecimento em Node.js, .NET, Linux, S.O, com foco total em desenvolvimento de aplicações Web & Mobile.</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/padovan011/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511930436286) 
