@@ -4,11 +4,11 @@
 
   ##
 ### 🔎 Sobre mim
-<p>Sou Desenvolvedor Full-Stack com experiência sólida na construção de aplicações modernas, escaláveis e seguras. Trabalho com Flutter, Laravel e Spring, atuando desde o desenho da arquitetura até a implementação completa de funcionalidades no front-end e no back-end. Tenho forte afinidade com boas práticas de engenharia de software, clean code, testes e processos de CI/CD. </p>
+<p>Engenheiro de Software em início de carreira, com foco em desenvolvimento Java e fundamentos sólidos de programação orientada a objetos. Atuo na construção de aplicações bem estruturadas, com atenção à lógica, organização de código e boas práticas de desenvolvimento.</p>
 
-<p>Minha atuação também envolve princípios de Cybersecurity, implementando soluções que garantem proteção, integridade e confiabilidade das aplicações que desenvolvo. Utilizo Docker para padronizar ambientes, otimizar deploys e facilitar o fluxo de desenvolvimento em containers.</p>
+<p>Tenho experiência prática no desenvolvimento de sistemas backend, criação de APIs, integração com bancos de dados relacionais (como MySQL), versionamento com Git e aplicação de conceitos como MVC, SOLID e clean code. Estou constantemente aprimorando habilidades em Java, Spring Boot e arquitetura de software, buscando escrever código eficiente, escalável e de fácil manutenção.</p>
 
-<p>Tenho inglês avançado e estou sempre buscando evoluir tecnicamente, acompanhando novas tecnologias, aprimorando minha comunicação e contribuindo para projetos que exigem alta performance, organização e pensamento crítico. Sou movido por desafios e pela oportunidade de criar soluções úteis, eficientes e bem estruturadas.</p>
+<p>Possuo perfil analítico, curiosidade técnica e disciplina para aprender rápido. Gosto de entender o “porquê” das coisas, não apenas fazer funcionar. Busco oportunidades para crescer como engenheiro de software, contribuir em projetos reais e evoluir em ambientes que valorizem qualidade técnica, aprendizado contínuo e trabalho em equipe.</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/padovan011/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511930436286) 
