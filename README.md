@@ -88,9 +88,6 @@
   Ferramentas: Git, GitHub, Visual Studio, VS Code, Azure
 </p>
 
-<br/>
-<br/>
-
 ## <h3 align="left">🏆 Bootcamps e Certificados </h3>
 
 <div align="left">
