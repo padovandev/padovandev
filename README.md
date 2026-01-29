@@ -100,12 +100,4 @@
  📈 <b>Desenvolvimento Web </b> - Curso de Desenvolvimento Web completo (94,5 Horas) pela <a href="https://www.udemy.com">Udemy</a> <br>
  📈 <b>Hacking Ético Profissional </b> - Curso de Hacking Ético com Kali Linux em Cibersegurança (34 Horas) pela <a href="https://www.udemy.com">Udemy</a> <br>
 
-## 📊 Estatísticas
-<br>
-<div align="center"> 
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=padovandev&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padovandev&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=150&section=footer"/>
